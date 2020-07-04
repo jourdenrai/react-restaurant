@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/react-restaurant/static/css/main.dbcf9fd4.chunk.css",
+    "main.js": "/react-restaurant/static/js/main.4b8a7763.chunk.js",
+    "main.js.map": "/react-restaurant/static/js/main.4b8a7763.chunk.js.map",
+    "runtime-main.js": "/react-restaurant/static/js/runtime-main.c7cd40a3.js",
+    "runtime-main.js.map": "/react-restaurant/static/js/runtime-main.c7cd40a3.js.map",
+    "static/js/2.34ddcfd2.chunk.js": "/react-restaurant/static/js/2.34ddcfd2.chunk.js",
+    "static/js/2.34ddcfd2.chunk.js.map": "/react-restaurant/static/js/2.34ddcfd2.chunk.js.map",
+    "index.html": "/react-restaurant/index.html",
+    "precache-manifest.1cbdfb4a4379d9a97ea85e309bae880f.js": "/react-restaurant/precache-manifest.1cbdfb4a4379d9a97ea85e309bae880f.js",
+    "service-worker.js": "/react-restaurant/service-worker.js",
+    "static/css/main.dbcf9fd4.chunk.css.map": "/react-restaurant/static/css/main.dbcf9fd4.chunk.css.map",
+    "static/js/2.34ddcfd2.chunk.js.LICENSE.txt": "/react-restaurant/static/js/2.34ddcfd2.chunk.js.LICENSE.txt",
+    "static/media/bg.png": "/react-restaurant/static/media/bg.ed93c211.png",
+    "static/media/blackened-shrimp.jpg": "/react-restaurant/static/media/blackened-shrimp.24194d4a.jpg",
+    "static/media/city.jpg": "/react-restaurant/static/media/city.624375bd.jpg",
+    "static/media/fish-poboy.jpg": "/react-restaurant/static/media/fish-poboy.d4252fcb.jpg",
+    "static/media/fishnchips.jpg": "/react-restaurant/static/media/fishnchips.527c4831.jpg",
+    "static/media/grilledfish.jpg": "/react-restaurant/static/media/grilledfish.4555711a.jpg",
+    "static/media/lobstertail.jpg": "/react-restaurant/static/media/lobstertail.8775bb5e.jpg",
+    "static/media/oysters.jpg": "/react-restaurant/static/media/oysters.d98c8d8f.jpg",
+    "static/media/shrimp-bg.png": "/react-restaurant/static/media/shrimp-bg.cbaed1d2.png",
+    "static/media/shrimp-pasta.jpg": "/react-restaurant/static/media/shrimp-pasta.57228e79.jpg",
+    "static/media/shrimpnchips.jpg": "/react-restaurant/static/media/shrimpnchips.8b712d6f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7cd40a3.js",
+    "static/js/2.34ddcfd2.chunk.js",
+    "static/css/main.dbcf9fd4.chunk.css",
+    "static/js/main.4b8a7763.chunk.js"
+  ]
+}
